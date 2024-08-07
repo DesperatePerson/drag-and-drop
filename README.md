@@ -1,2 +1,2 @@
 # drag-and-drop
-Drag&amp;Drop application on JavaSctipt
+Drag&amp;Drop application on JavaScript
